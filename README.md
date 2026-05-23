@@ -41,3 +41,4 @@ Bryan Alex
 
 ## Monografía
 Repositorio desarrollado como parte de la investigación académica sobre diseño de pruebas combinatorias y optimización del aseguramiento de calidad de software.
+![codigo resultante](images/image.png)
